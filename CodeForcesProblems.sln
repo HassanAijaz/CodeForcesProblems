@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NearlyLuckyNumber", "Nearly
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerejaAndDima", "SerejaAndDima\SerejaAndDima.csproj", "{69CFB711-3732-4181-8453-95FEB78F6B70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FavoriteSequence", "FavoriteSequence\FavoriteSequence.csproj", "{46FA863F-2BD2-4DA5-8F6F-96C67BCDAD4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{69CFB711-3732-4181-8453-95FEB78F6B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69CFB711-3732-4181-8453-95FEB78F6B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69CFB711-3732-4181-8453-95FEB78F6B70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46FA863F-2BD2-4DA5-8F6F-96C67BCDAD4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46FA863F-2BD2-4DA5-8F6F-96C67BCDAD4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46FA863F-2BD2-4DA5-8F6F-96C67BCDAD4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46FA863F-2BD2-4DA5-8F6F-96C67BCDAD4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
